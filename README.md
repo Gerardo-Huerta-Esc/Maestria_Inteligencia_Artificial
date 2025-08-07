@@ -6,7 +6,7 @@ Este repositorio contiene la entrega correspondiente a la **actividad grupal** d
 
 Todo el código fuente relacionado con esta actividad se encuentra dentro de la carpeta:
 
-➡️ [`/percepcion_computacional`](./percepcion_computacional)
+➡️ [`/percepcion_computacional`](./Percepcion_computacional)
 
 Allí podrás encontrar scripts, notebooks y recursos utilizados para el desarrollo de los modelos de segmentación y procesamiento de imágenes.
 
